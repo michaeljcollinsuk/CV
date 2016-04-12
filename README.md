@@ -5,7 +5,18 @@ After running an eBay vintage clothes store, I realised I was more interested in
 
 ## Skills
 
-#### Software/Web development
+#### Self-determination
+
+I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. At Makers Academy I have relearnt how to learn, with the emphasis on solving problems using my own initiative.
+
+- I ran my own eBay store selling vintage clothing for three years, doing everything myself - from buying stock to going to the post office. Even the embarrassing modeling shots were just me and a tripod!
+- It also led me to discover coding. Building basic webpages in HTML/CSS and using Adobe Dreamweaver was my gateway to getting stuck into Chris Pine and Codewars katas.
+- Then I gave up the shop to attend the most intensive 12 weeks of learning of my life in search of a more challenging career where I test myself every day. Makers Academy encourage independent learning and it was something I fully embraced.
+- As much as I enjoyed pairing at Makers, I'm also comfortable working on my own when I needed to. At Makers Academy I completed six solo projects (cleverly disguised as Weekend Challenges).
+- As a freelance journalist, I had nobody but myself to rely on to get good copy submitted before tight deadlines.
+
+
+#### Determined problem solver
 
 I've already formed a strong foundation in front and back-end development following the best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire projects. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
 
@@ -26,15 +37,6 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 - In my brief stints in the world of PR I worked with clients including EA and Paramount.
 - (Tried) to play Rugby League for Hillsborough Hawks in my teens. Excellent at passing the ball to the players better than me. Scored a try, once.
 
-
-#### Self driven
-
-I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. At Makers Academy I have relearnt how to learn, with the emphasis on solving problems using my own initiative.
-
-- I ran my own eBay store for three years, doing everything myself - from buying stock to going to the post office. Building basic webpages in HTML/CSS and using Adobe Dreamweaver first introduced me to coding.
-- Then gave up the shop to attend the most intensive 12 weeks of learning of my life in search of a more challenging career.
-- Comfortable working on my own when necessary. Completed six solo projects at Makers Academy.
-- As a freelance journalist, meeting deadlines to file copy was an integral part of the job.
 
 ## Education
 
