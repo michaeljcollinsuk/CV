@@ -38,7 +38,7 @@ I started my own eBay business to be independent and do something for myself, an
 
 ## Education
 
-#### Makers Academy (December 2015 to April 2016)
+#### Makers Academy - December 2015 to April 2016
 
 - Curiosity and hungry passion for clean code.
 - Independent learner and problem-solver.
