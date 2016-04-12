@@ -43,7 +43,7 @@ I started my own eBay business to be independent and do something for myself, an
 - Curiosity and hungry passion for clean code.
 - Independent learner and problem-solver.
 - OOP, TDD, SOLID, MVC, DDD.
-- Follower of the Agile methodology.
+- Follower of the Agile manifesto.
 - Software Craftsmanship.
 - Version control using Git and Github.
 - Ruby, Rails, Javascript, Node.js, Angular.js, PostgreSQL.
