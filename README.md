@@ -18,10 +18,10 @@ I started my own eBay business to be independent and do something for myself, an
 
 #### Determined problem solver
 
-I've already formed a strong foundation in front and back-end development following the best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire projects. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
+Solving problems is what made me want to become a developer. I've already formed a strong foundation in front and back-end development following best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire web projects in just four months. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
 
 - Always striving to write clean, well-tested, reusable code. I've come to really enjoy refactoring regularly.
-- Obsessive attention to detail and keen problem-solver. And debugging. Lots of debugging.
+- Obsessive attention to detail and doing things the right way, which really helps when debugging. Lots of debugging.
 - Main languages Ruby and Javascript. Also built projects using frameworks: Rails, AngularJS, Sinatra.
 - Worked with API's, both creating my own and connecting to external API's such as Instagram, World Weather Online and Webhose.io.
 - Currently reading Sandi Metz's Practical Object-Oriented Design in Ruby and refactoring old projects.
