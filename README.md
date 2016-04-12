@@ -7,21 +7,21 @@ After running an eBay vintage clothes store, I realised I was more interested in
 
 #### Self-determination
 
-I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. At Makers Academy I have relearnt how to learn, with the emphasis on solving problems using my own initiative.
+I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. I knew the direction I was going in wasn't right for me and it was exciting to start something fresh and different. It also ultimately led me to Makers Academy, where I strongly bought into their emphasis on solving problems using your own initiative.
 
-- I ran my own eBay store selling vintage clothing for three years, doing everything myself - from buying stock to going to the post office. Even the embarrassing modeling shots were just me and a tripod!
-- It also led me to discover coding. Building basic webpages in HTML/CSS and using Adobe Dreamweaver was my gateway to getting stuck into Chris Pine and Codewars katas.
+- I ran my eBay store selling vintage clothing for three years, doing everything myself - from buying stock to going to the post office. Even the embarrassing modelling shots were just me and a tripod!
+- It also led me to discover coding. Building basic webpages in HTML/CSS and using Adobe Dreamweaver was my gateway to getting stuck into Chris Pine and Codecademy.
 - Then I gave up the shop to attend the most intensive 12 weeks of learning of my life in search of a more challenging career where I test myself every day. Makers Academy encourage independent learning and it was something I fully embraced.
-- As much as I enjoyed pairing at Makers, I'm also comfortable working on my own when I needed to. At Makers Academy I completed six solo projects (cleverly disguised as Weekend Challenges).
+- As much as I enjoyed pairing at Makers, I was also comfortable working on my own when I needed to. This included completing six solo projects (cleverly disguised as Weekend Challenges).
 - As a freelance journalist, I had nobody but myself to rely on to get good copy submitted before tight deadlines.
 
 
 #### Determined problem solver
 
-Solving problems is what made me want to become a developer. I've already formed a strong foundation in front and back-end development following best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire web projects in just four months. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
+Solving problems is what made me want to become a developer. I've believe I've formed a strong foundation in front and back-end development following best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire web projects in just four months. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
 
-- Always striving to write clean, well-tested, reusable code. I've come to really enjoy refactoring regularly.
-- Obsessive attention to detail and doing things the right way, which really helps when debugging. Lots of debugging.
+- Always striving to write clean, well-tested, reusable code. I've come to really enjoy regular refactoring.
+- Obsessive attention to detail and doing things the right way, which helps massively when debugging. Lots of debugging.
 - Main languages Ruby and Javascript. Also built projects using frameworks: Rails, AngularJS, Sinatra.
 - Worked with API's, both creating my own and connecting to external API's such as Instagram, World Weather Online and Webhose.io.
 - Currently reading Sandi Metz's Practical Object-Oriented Design in Ruby and refactoring old projects.
@@ -29,7 +29,7 @@ Solving problems is what made me want to become a developer. I've already formed
 
 #### Teamwork
 
-In previous jobs I've have been part of teams that helped plan and run events for large institutions such as the University of Sheffield and London Zoo. At Makers Academy I worked in small teams to produce projects I'm really proud of. My pair partners told me that I was always willing to help and was extremely patient with them.
+In previous jobs I've have been part of teams that helped plan and run events for large institutions such as the University of Sheffield and London Zoo. I really enjoy working in a team, sharing ideas, and working to a shared goal. At Makers Academy I worked in small teams to produce projects I'm really proud of. My pair partners told me that I was always willing to help and was extremely patient with them.
 
 - Confident communicator, excellent listener, always adaptable. "The patience of a saint", [quote Sarah Crawley](https://github.com/sara6).
 - Pair programmed every day at Makers Academy, where I really honed my communication skills, and relished receiving feedback on my code.
