@@ -32,7 +32,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. At Makers Academy I have relearnt how to learn, with the emphasis on solving problems using my own initiative.
 
 - I ran my own eBay store for three years, doing everything myself - from buying stock to going to the post office. Building basic webpages in HTML/CSS and using Adobe Dreamweaver first introduced me to coding.
-- Then gave it up to attend the most intensive 12 weeks of learning of my life in search of a more challenging career.
+- Then gave it up the shop to attend the most intensive 12 weeks of learning of my life in search of a more challenging career.
 - Comfortable working on my own when necessary. Completed six solo projects at Makers Academy.
 - As a freelance journalist, meeting deadlines to file copy was an integral part of the job.
 
