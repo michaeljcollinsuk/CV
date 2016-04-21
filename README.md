@@ -1,13 +1,13 @@
 ## Michael Collins
 michaelj.collinsuk@gmail.com | [Github](https://github.com/michaeljcollinsuk)
 
-After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. I'm committed to a career as a developer, and would love to work with an enthusiastic team where I will continue to will continue to be pushed to my limits and challenged every day.
+After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. I'm committed to a career as a developer, and would love to work with an enthusiastic team where I will continue to be pushed to my limits and challenged every day.
 
 ## Skills
 
 #### Self-determination
 
-I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. I'd had enough of the jobs I was doing at the time and it was exciting to start something fresh and different. It also ultimately led me to Makers Academy, which took another leap of faith and even more determination.
+I started my own eBay business to be independent and do something for myself, and I'm proud of what I achieved. I wanted a new challenge from the jobs I had been doing and it was exciting to start something fresh and different. It also ultimately led me to Makers Academy, which took another leap of faith and even more determination.
 
 - I ran my eBay store selling vintage clothing for three years, doing everything myself - from buying stock to going to the post office. Even the embarrassing modelling shots were just me and a tripod!
 - It also led me to discover coding. Building basic webpages in HTML/CSS and using Adobe Dreamweaver was my gateway to getting stuck into Chris Pine and Codecademy.
@@ -18,22 +18,23 @@ I started my own eBay business to be independent and do something for myself, an
 
 #### Determined problem solver
 
-Solving problems is what made me want to become a developer. I've believe I've formed a strong foundation in front and back-end development following best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire web projects in just four months. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
+Solving problems is what made me want to become a developer. I believe I've formed a strong foundation in front and back-end development following best practices within TDD, OOP and XP. I'm always striving to improve my skills and knowledge - I've gone from staying up late working on katas to building entire web projects in just four months. I'm hooked now and have a real thirst to keep learning and become the best developer I can be.
 
 - Always striving to write clean, well-tested, reusable code. I've come to really enjoy regular refactoring.
 - Obsessive attention to detail and doing things the right way, which helps massively when debugging. Lots of debugging.
 - Main languages Ruby and Javascript. Also built projects using frameworks: Rails, AngularJS, Sinatra.
 - Worked with API's, both creating my own and connecting to external API's such as Instagram, World Weather Online and Webhose.io.
-- Currently reading Sandi Metz's Practical Object-Oriented Design in Ruby and refactoring old projects.
+- Currently reading Sandi Metz's Practical Object-Oriented Design in Ruby and refactoring old projects to further enhance my knowledge of best practices.
 
 
 #### Teamwork
 
-In previous jobs I've have been part of teams that helped plan and run events for large institutions such as the University of Sheffield and London Zoo. I've always enjoyed working in a team, sharing ideas, and working to a shared goal. At Makers Academy I worked in small teams to produce projects I'm really proud of. My pair partners told me that I was always willing to help and was extremely patient with them.
+In previous jobs I've have been part of teams that helped plan and run events for large institutions such as the University of Sheffield and London Zoo. I've always enjoyed working in a team, sharing ideas, and working to a common goal. At Makers Academy I worked in small teams to produce projects I'm really proud of. My pair partners told me that I was always willing to help and they really enjoyed working with me.
 
 - Confident communicator, excellent listener, always adaptable. "The patience of a saint", [quote Sarah Crawley](https://github.com/sara6).
 - We pair programmed with a different person every day at Makers Academy. I quickly realised that this could only work through clear communication and an understanding of how other people work. It also encouraged me to always try to write clean code, as it was no good if your next partner wasn't able to read it easily.
 - Worked in a team of four to produce our final project over a two week design sprint: [Salty Daze](https://mighty-sands-50291.herokuapp.com/#/map).
+- Worked in a team of three over just four days to produce [Opposing Views](https://github.com/michaeljcollinsuk/Your-Own-Opposition). Our coaches were really impressed with what we achieved in such a short time.
 - In my brief stints in the world of PR I worked with clients such as EA and Paramount. This included coming up with ideas to pitch, organising events, and harassing journalists about non-existent coverage.
 - (Tried) to play Rugby League for Hillsborough Hawks in my teens. Excellent at passing the ball to the players better than me. Scored a try, once.
 
