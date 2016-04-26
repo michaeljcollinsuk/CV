@@ -33,7 +33,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 
 - Confident communicator, excellent listener, always adaptable. "The patience of a saint", [quote Sarah Crawley](https://github.com/sara6).
 - We pair programmed with a different person every day at Makers Academy. I quickly realised that this could only work through clear communication and an understanding of how other people work. It also encouraged me to always try to write clean code, as it was no good if your next partner wasn't able to read it easily.
-- Worked in a team of four to produce our final project over a two week design sprint: [Salty Daze](https://mighty-sands-50291.herokuapp.com/#/map).
+- Worked in a team of four to produce our final project over a two week design sprint: [Salty Daze](https://github.com/michaeljcollinsuk/The-app-of-GNAR).
 - Worked in a team of three over just four days to produce [Opposing Views](https://github.com/michaeljcollinsuk/Your-Own-Opposition). Our coaches were really impressed with what we achieved in such a short time.
 - In my brief stints in the world of PR I worked with clients such as EA and Paramount. This included coming up with ideas to pitch, organising events, and harassing journalists about non-existent coverage.
 - (Tried) to play Rugby League for Hillsborough Hawks in my teens. Excellent at passing the ball to the players better than me. Scored a try, once.
