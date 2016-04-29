@@ -59,8 +59,6 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 - Second Class Honours, Lower Division.
 - Wrote for the University paper.
 
-#### Any other qualifications
-
 ## Experience
 
 **Pyramid Vintage, eBay store** - 2012 to 2015    
