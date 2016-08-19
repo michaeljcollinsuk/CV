@@ -61,10 +61,10 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 
 ## Experience
 
-**Black Eye Project** - June 2016 to present
-*Junior Developer*
-At Black Eye I have supported the head of digital with websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on new features, and gained experience of deploying to live websites.
-**Pyramid Vintage, eBay store** - 2012 to 2015    
+**Black Eye Project** - June 2016 to Present  
+*Junior Developer*  
+At Black Eye I have supported the head of digital with websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on new features, and gained experience of deploying to live websites.  
+**Pyramid Vintage, eBay store** - 2012 to 2015  
 *Founder/owner*  
 **Freelance Journalist** - April 2014 to Sept 2014  
 *Covered Sheffield Eagles rugby matches for the Rugby League Weekly paper*  
