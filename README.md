@@ -1,7 +1,7 @@
 ## Michael Collins
 michaelj.collinsuk@gmail.com | [Github](https://github.com/michaeljcollinsuk) | [BitBucket](https://bitbucket.org/michaeljcollins/)
 
-After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. I'm committed to a career as a developer, and would love to work with an enthusiastic team where I will continue to be pushed to my limits and challenged every day.
+After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. In June I got my first freelance role as a Junior Developer for a design and marketing agency in Sheffield. I'm committed to a career as a developer, and would love to work with an enthusiastic team where I will continue to be pushed to my limits and challenged every day.
 
 ## Skills
 
@@ -63,6 +63,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 
 **Black Eye Project** - June 2016 to present
 *Junior Developer*
+At Black Eye I have supported the head of digital with websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on new features, and gained experience of deploying to live websites.
 **Pyramid Vintage, eBay store** - 2012 to 2015    
 *Founder/owner*  
 **Freelance Journalist** - April 2014 to Sept 2014  
