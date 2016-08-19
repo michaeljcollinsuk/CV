@@ -63,7 +63,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 
 **Black Eye Project** - June 2016 to Present  
 *Junior Developer*  
-At Black Eye I have supported the head of digital with websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on new features, and gained experience of deploying to live websites.  
+At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on the existing codebase and helped to implement new features. It has been my first experience of deploying to live commercial websites.  
 **Pyramid Vintage, eBay store** - 2012 to 2015  
 *Founder/owner*  
 **Freelance Journalist** - April 2014 to Sept 2014  
