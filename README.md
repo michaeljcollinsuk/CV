@@ -61,6 +61,8 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 
 ## Experience
 
+**Black Eye Project** - June 2016 to present
+*Junior Developer*
 **Pyramid Vintage, eBay store** - 2012 to 2015    
 *Founder/owner*  
 **Freelance Journalist** - April 2014 to Sept 2014  
