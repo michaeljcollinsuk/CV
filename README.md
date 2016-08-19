@@ -61,7 +61,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 
 ## Experience
 
-**Black Eye Project** - June 2016 to Present  
+**The Black Eye Project** - June 2016 to Present  
 *Junior Developer*  
 
 At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on the existing codebase and helped to implement new features. It has been my first experience of deploying to live commercial websites.  
