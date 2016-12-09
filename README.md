@@ -64,7 +64,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 **The Black Eye Project** - June 2016 to Present  
 *Junior Developer*  
 
-At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/) and [partyforthepeople.org](http://www.partyforthepeople.org/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I have enjoyed it and found the experience of seeing my work deployed live very rewarding.
+At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/) and [partyforthepeople.org](http://www.partyforthepeople.org/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I found the experience of seeing my work deployed live incredibly rewarding.
 
 **Pyramid Vintage, eBay store** - 2012 to 2015  
 *Founder/owner*  
