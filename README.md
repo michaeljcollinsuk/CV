@@ -8,7 +8,7 @@ After running an eBay vintage clothes store, I realised I was more interested in
 **The Black Eye Project** - June 2016 to Present  
 *Junior Developer*  
 
-At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/) and [partyforthepeople.org](http://www.partyforthepeople.org/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I found the experience of seeing my work deployed live incredibly rewarding.
+At Black Eye I have worked with the head of digital on websites like [partyforthepeople.org](http://www.partyforthepeople.org/), a not-for-profit ticket agency based in Sheffield, and [cycliq.com](https://cycliq.com/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I found the experience of seeing my work deployed live incredibly rewarding.
 
 - Implemented a multi-currency feature for Party for the People, allowing their sellers to sell tickets in Euros.
 - Providing support for clients websites, fixing bugs, and writing tests, and deploying live.
