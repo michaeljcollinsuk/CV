@@ -1,7 +1,7 @@
 ## Michael Collins
 [Github](https://github.com/michaeljcollinsuk) | [BitBucket](https://bitbucket.org/michaeljcollins/)
 
-After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. In June I got my first freelance role as a Junior Developer for a design and marketing agency in Sheffield. I'm committed to a career as a developer, and would love to work with an enthusiastic team where I will continue to be pushed to my limits and challenged every day.
+After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. In June I became a Junior Developer for an agency in Sheffield, and have been working there since on a freelance basis. I'm committed to a career as a developer, and would love to work with an enthusiastic team with a focus on mentoring, in a role where I will be be challenged and pushed to improve every day.
 
 ## Skills
 
@@ -64,7 +64,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 **The Black Eye Project** - June 2016 to Present  
 *Junior Developer*  
 
-At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/), utilising a range of technologies such as Rails, Javascript and PHP. I have worked on the existing codebase and helped to implement new features. It has been my first experience of deploying to live commercial websites.  
+At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/) and [partyforthepeople.org](http://www.partyforthepeople.org/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I have enjoyed it and found the experience of seeing my work deployed live very rewarding.
 
 **Pyramid Vintage, eBay store** - 2012 to 2015  
 *Founder/owner*  
