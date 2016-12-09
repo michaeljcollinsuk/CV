@@ -3,6 +3,17 @@
 
 After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. In June I became a Junior Developer for an agency in Sheffield, and have been working there since on a freelance basis. I'm committed to a career as a developer, and would love to work with an enthusiastic team with a focus on mentoring, in a role where I will be be challenged and pushed to improve every day.
 
+## Developer Experience
+
+**The Black Eye Project** - June 2016 to Present  
+*Junior Developer*  
+
+At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/) and [partyforthepeople.org](http://www.partyforthepeople.org/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I found the experience of seeing my work deployed live incredibly rewarding.
+
+- Implemented a multi-currency feature for Party for the People, allowing their sellers to sell tickets in Euros.
+- Providing support for clients websites, fixing bugs, and writing tests, and deploying live.
+- It has mainly been a back end role, but I've been happy to get stuck in to front end work when needed.
+
 ## Skills
 
 #### Self-determination
@@ -24,7 +35,6 @@ Solving problems is what made me want to become a developer. I believe I've form
 - Obsessive attention to detail and doing things the right way, which helps massively when debugging. Lots of debugging.
 - Main languages Ruby and Javascript. Also built projects using frameworks: Rails, AngularJS, Sinatra.
 - Worked with API's, both creating my own and connecting to external API's such as Instagram, World Weather Online and Webhose.io.
-- Currently reading Sandi Metz's Practical Object-Oriented Design in Ruby and refactoring old projects to further enhance my knowledge of best practices.
 
 
 #### Teamwork
@@ -59,12 +69,7 @@ In previous jobs I've have been part of teams that helped plan and run events fo
 - Second Class Honours, Lower Division.
 - Wrote for the University paper.
 
-## Experience
-
-**The Black Eye Project** - June 2016 to Present  
-*Junior Developer*  
-
-At Black Eye I have worked with the head of digital on websites like [cycliq.com](https://cycliq.com/) and [partyforthepeople.org](http://www.partyforthepeople.org/). It has primarily been a back end role, mostly working with Rails, but also utilising other technologies such as Javascript and PHP. I have worked on the existing codebase and helped to implement new features, which has involved working directly with the client. There have been many challenges, not least working to deadlines and dealing with changing requirements, but I found the experience of seeing my work deployed live incredibly rewarding.
+## Previous Experience
 
 **Pyramid Vintage, eBay store** - 2012 to 2015  
 *Founder/owner*  
