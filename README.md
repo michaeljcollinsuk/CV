@@ -1,7 +1,7 @@
 ## Michael Collins
 [Github](https://github.com/michaeljcollinsuk) | [BitBucket](https://bitbucket.org/michaeljcollins/)
 
-After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. In June I became a Junior Developer for an agency in Sheffield, and have been working there since on a freelance basis. I'm committed to a career as a developer, and would love to work with an enthusiastic team with a focus on mentoring, in a role where I will be be challenged and pushed to improve every day.
+After running an eBay vintage clothes store, I realised I was more interested in building the webpages than selling the clothes. I got into coding and was hooked by it's problem solving nature. I joined Makers Academy where I became passionate about striving for clean code and developed a healthy obsession for refactoring. In June I became a Junior Developer for an agency in Sheffield, and have been working there since on a freelance basis. I'm committed to a career as a developer, and would love to work with an enthusiastic team with a focus on mentoring, in a role where I will be challenged and pushed to improve every day.
 
 ## Developer Experience
 
